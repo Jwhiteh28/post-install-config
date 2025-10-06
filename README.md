@@ -61,10 +61,19 @@ System Administrators:
 </p>
 <br />
 
+<p align="center">
+  <h1>Configure Teams</h1>
+</p>
+
+<strong>Admin Panel > Agents > Teams</strong>
 <p>
-<img src="" width="600" alt="Disk Sanitization Steps"/>
+Online Banking:
+</p>
+<br />
+<p>
+  Teams is when you want to create a group of people who are from different departments. In this example, Online Banking
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img src="https://i.imgur.com/Bn83uzQ.png" width="600" alt="Disk Sanitization Steps"/>
 </p>
 <br />
