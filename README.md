@@ -130,3 +130,43 @@ Kyle (end user):
   Repeat this step for any internal end users
 </p>
 <br />
+
+
+<p align="center">
+  <h1>Configure SLA (Service Level Agreement)</h1>
+</p>
+
+
+
+<strong>Admin Panel > Manage > SLA.</strong>
+<p>
+Sev-A (1 hour, 24/7).
+Sev-B (4 hours, 24/7).
+Sev-C (8 hours, business hours).
+</p>
+<br />
+<p>
+  <img src="" width="600" alt="Disk Sanitization Steps"/>
+  <img src="" width="600" alt="Disk Sanitization Steps"/>
+  <img src="" width="600" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+
+<strong>Admin Panel > Manage > Help Topics.</strong>
+<p>
+ Business Critical Outage.
+ Personal Computer Issues.
+ Equipment Request.
+Password Reset.
+</p>
+<br />
+<p>
+  <img src="" width="600" alt="Disk Sanitization Steps"/>
+  <img src="" width="600" alt="Disk Sanitization Steps"/>
+  <img src="" width="600" alt="Disk Sanitization Steps"/>
+  <img src="" width="600" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+</p>
+<br />
