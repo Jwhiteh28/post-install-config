@@ -113,3 +113,20 @@ Online Banking:
 </p>
 <br />
 
+<p align="center">
+  <h1>Configure End Users (customers)</h1>
+</p>
+
+
+<strong>Agent Panel > Users > Add New</strong>
+<p>
+Kyle (end user):
+</p>
+<br />
+<p>
+  <img src="https://i.imgur.com/l8Zw848.png" width="600" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+  Repeat this step for any internal end users
+</p>
+<br />
