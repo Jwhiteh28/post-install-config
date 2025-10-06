@@ -77,3 +77,39 @@ Online Banking:
 <img src="https://i.imgur.com/Bn83uzQ.png" width="600" alt="Disk Sanitization Steps"/>
 </p>
 <br />
+
+<p align="center">
+  <h1>Allow anyone to create a ticket</h1>
+</p>
+
+<strong>Admin Panel > Settings > User Settings</strong>
+<p>
+  Make sure "Require registration and login to create tickets" is NOT selected:
+</p>
+<br />
+<p>
+  <img src="https://i.imgur.com/hOtxnPp.png" width="600" alt="Disk Sanitization Steps"/>
+</p>
+
+<p align="center">
+  <h1>Configure Agents (employees)</h1>
+</p>
+
+<strong>Admin Panel > Agents > Add New</strong>
+<p>
+  
+</p>
+<br />
+<p>
+  <img src="https://i.imgur.com/9tudr8k.png" width="600" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+  John Doe:
+  <img src="https://i.imgur.com/jOWxskB.png" width="600" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/VABZ8p8.png" width="600" alt="Disk Sanitization Steps"/>
+  <p>
+    Both agents have all access but Patrick is in support and John is in Online Banking
+  </p>
+</p>
+<br />
+
