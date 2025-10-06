@@ -143,12 +143,14 @@ Kyle (end user):
 </p>
 
 
-
 <strong>Admin Panel > Manage > SLA.</strong>
 <p>
-Sev-A (1 hour, 24/7).
-Sev-B (4 hours, 24/7).
-Sev-C (8 hours, business hours).
+- SLA is essentially how much time you have to do some specific task whether to responding or completing a ticket, etc.
+  <ul>
+    <li>Sev-A (1 hour, 24/7)</li>
+    <li>Sev-B (4 hours, 24/7)</li>
+    <li>Sev-C (8 hours, business hours)</li>
+  </ul>
 </p>
 <br />
 <p>
@@ -158,6 +160,10 @@ Sev-C (8 hours, business hours).
 </p>
 <br />
 
+
+<p align="center">
+  <h1>Configure Help Topics</h1>
+</p>
 
 <strong>Admin Panel > Manage > Help Topics.</strong>
 <p>
