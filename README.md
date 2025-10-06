@@ -34,7 +34,9 @@ This tutorial explains the steps for post-install setup of the osTicket help des
 <br />
 
 <p>
-- Here I created and define my own role in this example.
+  <p>
+    - Here I created and define my own role in this example.
+  </p>
 <img src="https://i.imgur.com/FWgxxdV.png" width="600" alt="Disk Sanitization Steps"/>
 </p>
 <img src="https://i.imgur.com/feiJDXI.png" width="600" alt="Disk Sanitization Steps"/>
@@ -53,11 +55,13 @@ System Administrators:
 </p>
 <br />
 <p>
-- Add a New Department
+  <p>
+    - Add a New Department
+  </p>
 <img src="https://i.imgur.com/aVMeqIJ.png" width="600" alt="Disk Sanitization Steps"/>
-<p>
-  Click "Create Dept"
-</p>
+  <p>
+    Click "Create Dept"
+  </p>
 </p>
 <br />
 
@@ -104,7 +108,9 @@ Online Banking:
   <img src="https://i.imgur.com/9tudr8k.png" width="600" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+  <p>
   John Doe:
+  </p>
   <img src="https://i.imgur.com/jOWxskB.png" width="600" alt="Disk Sanitization Steps"/>
   <img src="https://i.imgur.com/VABZ8p8.png" width="600" alt="Disk Sanitization Steps"/>
   <p>
@@ -155,10 +161,12 @@ Sev-C (8 hours, business hours).
 
 <strong>Admin Panel > Manage > Help Topics.</strong>
 <p>
- Business Critical Outage.
- Personal Computer Issues.
- Equipment Request.
-Password Reset.
+  <ul>
+     <li>Business Critical Outage</li>
+     <li>Personal Computer Issues</li>
+     <li>Equipment Request</li>
+    <li>Password Reset</li>
+  </ul>
 </p>
 <br />
 <p>
