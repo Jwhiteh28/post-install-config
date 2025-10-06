@@ -38,8 +38,9 @@ This tutorial explains the steps for post-install setup of the osTicket help des
 <img src="https://i.imgur.com/FWgxxdV.png" width="600" alt="Disk Sanitization Steps"/>
 </p>
 <img src="https://i.imgur.com/feiJDXI.png" width="600" alt="Disk Sanitization Steps"/>
-<img src="" width="600" alt="Disk Sanitization Steps"/>
-<img src="" width="600" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/pIu2VTD.png" width="600" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/gsDobYL.png" width="600" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/eR3Z0Bc.png" width="600" alt="Disk Sanitization Steps"/>
 <br />
 
 <p>
