@@ -43,11 +43,21 @@ This tutorial explains the steps for post-install setup of the osTicket help des
 <img src="https://i.imgur.com/eR3Z0Bc.png" width="600" alt="Disk Sanitization Steps"/>
 <br />
 
-<p>
-<img src="" width="600" alt="Disk Sanitization Steps"/>
+<p align="center">
+  <h1>Configure Departments</h1>
 </p>
+
+<strong>Admin Panel > Agents > Departments</strong>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+System Administrators:
+</p>
+<br />
+<p>
+- Add a New Department
+<img src="https://i.imgur.com/aVMeqIJ.png" width="600" alt="Disk Sanitization Steps"/>
+<p>
+  Click "Create Dept"
+</p>
 </p>
 <br />
 
