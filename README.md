@@ -167,6 +167,7 @@ Kyle (end user):
 
 <strong>Admin Panel > Manage > Help Topics.</strong>
 <p>
+  - Topics allow either the end user or the agent creating a ticket to select the appropriate category for that ticket.
   <ul>
      <li>Business Critical Outage</li>
      <li>Personal Computer Issues</li>
@@ -176,10 +177,10 @@ Kyle (end user):
 </p>
 <br />
 <p>
-  <img src="" width="600" alt="Disk Sanitization Steps"/>
-  <img src="" width="600" alt="Disk Sanitization Steps"/>
-  <img src="" width="600" alt="Disk Sanitization Steps"/>
-  <img src="" width="600" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/IKkfTJi.png" width="600" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/dIfA7OR.png" width="600" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/TifhvOl.png" width="600" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/Nv2uHcK.png" width="600" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 </p>
