@@ -154,9 +154,9 @@ Kyle (end user):
 </p>
 <br />
 <p>
-  <img src="" width="600" alt="Disk Sanitization Steps"/>
-  <img src="" width="600" alt="Disk Sanitization Steps"/>
-  <img src="" width="600" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/qC7JpWs.png" width="600" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/ixRQ1FS.png" width="600" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/Gjt3j5c.png" width="600" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
